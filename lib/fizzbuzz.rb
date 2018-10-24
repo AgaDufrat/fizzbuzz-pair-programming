@@ -1,3 +1,3 @@
 def fizzbuzz(number)
-'fizz'
+  return 'fizz'
 end
